@@ -1,0 +1,23 @@
+{
+  "name": "ssuni",
+  "version": "0.0.0",
+  "authors": [
+    "Mario <marioffdsw@outlook.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#~1.4.7",
+    "angular-material": "~0.11.4",
+    "angular-resource": "~1.4.7",
+    "angular-touch": "~1.4.7",
+    "angular-ui-router": "ui-router#~0.2.15",
+    "animate.css": "~3.4.0"
+  }
+}
